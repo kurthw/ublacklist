@@ -539,6 +539,8 @@ export const SEARCH_ENGINES: Readonly<
           "*://www.jabber-germany.de/searx/search*",
           "*://searx.juancord.xyz/searxng/search*",
           "*://searx.oloke.xyz/search*",
+          "*://searxng.sol.tc/search*",
+          "*://searxng.rofd.net/search*",
         ],
         runAt: "document_start",
       },
